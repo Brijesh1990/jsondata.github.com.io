@@ -1,0 +1,45 @@
+{
+    "employee":
+    
+    [
+        {
+        id:1001,
+        name:"brijesh",
+        age:33
+
+        },
+        {              
+        id:1002,
+        name:"Rajesh",
+        age:34
+  
+      },
+      {              
+        id:1003,
+        name:"hardik",
+        age:25
+  
+      }
+
+    ],
+
+
+    "categories":
+    
+    [
+        {
+        id:1,
+        name:"Mobiles",
+        desc:"good"
+
+        },
+        {              
+        id:2,
+        name:"Kids",
+        desc:"good"
+  
+      }
+     
+    ]
+
+}
